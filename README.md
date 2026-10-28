@@ -1,16 +1,21 @@
 # Naturia app (Android)
 
 Buy bulk dried fruit and vegetable peels and other biodegradable waste, in 25 kg and 50 kg
-sacks, for farms, nurseries and compost makers.
+sacks, for farms, nurseries and compost makers. A native Android app: browse the shop, order,
+sign in, and (for the shop owner) see and manage orders.
 
 ## Download
 
 **[Download Naturia.apk](https://github.com/johniikuttann/naturia-app/raw/main/Naturia.apk)**
-(version 2.0.0, 1.6 MB)
+(version 3.0.0, 8.6 MB)
 
 Open this page on your Android phone and tap the link above.
 
 ## Install
+
+**Already have an older Naturia (version 2.x)?** Uninstall it first (press and hold the app, then
+**Uninstall**). Version 3 is a new, native app with a new signing key, so Android will not install it
+over the old one. Only your shopping bag is lost.
 
 1. Tap **Download Naturia.apk**. If your phone warns that this type of file can harm your
    device, tap **OK** / **Download anyway**.
@@ -29,7 +34,7 @@ internet**. Payment is Cash on Delivery, and the shop calls you to confirm.
 SHA-256 of `Naturia.apk`:
 
 ```
-3bcde8659e90f751b8a58b19e24bf6880e2b34c8d7071c0c243a5e2dddea1ec2
+8ee36e96d07a0ed547df9e185425edfc945c014f50c32058678379ff5a0b00b1
 ```
 
 Only install the app from this page. Do not install a copy that someone else changes or re-sends.
