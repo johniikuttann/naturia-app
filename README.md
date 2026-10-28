@@ -7,7 +7,7 @@ sign in, and (for the shop owner) see and manage orders.
 ## Download
 
 **[Download Naturia.apk](https://github.com/johniikuttann/naturia-app/raw/main/Naturia.apk)**
-(version 3.0.0, 8.6 MB)
+(version 3.0.1, 8.6 MB)
 
 Open this page on your Android phone and tap the link above.
 
@@ -34,7 +34,7 @@ internet**. Payment is Cash on Delivery, and the shop calls you to confirm.
 SHA-256 of `Naturia.apk`:
 
 ```
-8ee36e96d07a0ed547df9e185425edfc945c014f50c32058678379ff5a0b00b1
+7de3d46ba970d6bfcb4f07c83aada8bbb6abd0ab2106b0f1f30fc418f1262e39
 ```
 
 Only install the app from this page. Do not install a copy that someone else changes or re-sends.
